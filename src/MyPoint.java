@@ -1,4 +1,4 @@
-package shapes;
+
 public class MyPoint {
 	private double x;
 	private double y;

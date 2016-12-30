@@ -1,4 +1,4 @@
-package shapes;
+
 import java.awt.geom.*;
 public class Triangle2D extends Shape{
 	private MyPoint p1, p2, p3;

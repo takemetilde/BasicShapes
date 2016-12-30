@@ -1,4 +1,4 @@
-package shapes;
+
 public class Circle2D extends Shape{
 	private MyPoint p1;
 	private double radius;
